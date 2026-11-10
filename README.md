@@ -1,2 +1,39 @@
-# ASV-Monitoring-Website2026
-Frontend dashboard for the 2026 Autonomous Surface Vehicle project, featuring vessel telemetry interfaces, GPS data visualization, and mission monitoring.
+# ASV Monitoring Website 2026
+
+A web-based monitoring dashboard developed
+for the Autonomous Surface Vehicle project.
+
+## Features
+
+- Surface camera monitoring interface
+- Underwater camera monitoring interface
+- Speed Over Ground (SOG) visualization
+- Course Over Ground (COG) visualization
+- GPS position and geotag information
+- Vessel trajectory visualization
+- Mission A and Mission B interfaces
+
+## Technology Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Supabase
+- Chart.js
+
+## Project Status
+
+The website source code is available for review.
+Live backend connectivity is currently offline.
+
+## Project Structure
+
+- `index.html` - Main dashboard
+- `ArkawiraB.html` - Alternative mission interface
+- `style.css` - Main styling
+- `styleb.css` - Alternative interface styling
+- `supa.js` - Supabase integration
+
+## Disclaimer
+
+Developed as part of the ASV engineering project.
