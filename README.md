@@ -21,10 +21,19 @@ for the Autonomous Surface Vehicle project.
 - Supabase
 - Chart.js
 
+## Application Preview
+
+### ASV Monitoring Dashboard
+
+The dashboard provides an interface for monitoring vessel information, camera feeds, navigation data, and mission trajectory.
+
+![ASV Monitoring Dashboard](<Screenshots Website ASV 2026/dashboard.png>)
+
 ## Project Status
 
 The website source code is available for review.
-Live backend connectivity is currently offline.
+Live backend connectivity and real-time data
+monitoring are currently offline.
 
 ## Project Structure
 
